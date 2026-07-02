@@ -5,12 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-Windows%2011-0078D4?style=flat-square&logo=windows11" alt="Platform"/>
-  <img src="https://img.shields.io/badge/language-Batchfile-green?style=flat-square" alt="Language"/>
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License"/>
-  <img src="https://img.shields.io/github/v/release/TechnifiedWorld/snapset-cli?include_prereleases&label=version&style=flat-square&color=orange" alt="Version"/>
-  <img src="https://img.shields.io/github/issues/TechnifiedWorld/snapset-cli?style=flat-square" alt="Issues"/>
-  <img src="https://img.shields.io/github/last-commit/TechnifiedWorld/snapset-cli?style=flat-square" alt="Last Commit"/>
+  <img src="https://img.shields.io/badge/platform-Windows%2011-0078D4?style=flat-square&logo=windows11" alt="Platform">
+  <img src="https://img.shields.io/badge/language-Batchfile-green?style=flat-square" alt="Language">
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/v/release/TechnifiedWorld/snapset-cli?include_prereleases&label=version&style=flat-square&color=orange" alt="Version">
 </p>
 
 > A lightweight Windows 11 command-line launcher for fast, direct access to settings, system tools, and control panels.
@@ -529,4 +527,4 @@ See [CHANGELOG.md](CHANGELOG.md) for a full history of changes.
 
 ## License
 
-[MIT License](LICENSE), (c) 2026 Technified World
+[MIT License](LICENSE) - (c) 2026 Technified World
