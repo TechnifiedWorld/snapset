@@ -11,6 +11,7 @@ $RECYCLE.BIN/
 *.tmp
 *.temp
 *.log
+temp.md
 
 # Editor and IDE folders
 .vscode/
